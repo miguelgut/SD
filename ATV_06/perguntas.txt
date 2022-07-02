@@ -1,0 +1,5 @@
+1. Quais são as semelhanças entre RMI e RPC?
+2. Quais módulos compõe a implementação de um sistema RMI?
+3. Quais são as arquiteturas que podemos adotar com objetos distribuídos?
+4. Como a coleta de lixo distribuída funciona em Java?
+5. Para que serve a exceção em caso remoto?

@@ -1,0 +1,5 @@
+1. Qual o funcionamento básico de um sistema de filas?
+2. Quais são os tipos de recepção possíveis?
+3. Quais são as funcionalidades extras comuns à fila de mensagens?
+4. Para que serve a interface na fila?
+5. Qual é o principal inconveniente da fila distribuída?
